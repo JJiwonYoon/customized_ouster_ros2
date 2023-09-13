@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/tank/uros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/tank/robot_ws/install/teb_msgs/local/lib/python3.10/dist-packages",
+        "/home/tank/robot_ws/install/sbg_driver/local/lib/python3.10/dist-packages",
+        "/home/tank/robot_ws/install/ouster_msgs/local/lib/python3.10/dist-packages",
+        "/home/tank/robot_ws/install/costmap_converter_msgs/local/lib/python3.10/dist-packages",
+        "/home/tank/robot_ws/build/2d_lidar_detection",
+        "/home/tank/robot_ws/install/2d_lidar_detection/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tank/uros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/tank/robot_ws/install/teb_msgs/local/lib/python3.10/dist-packages",
+        "/home/tank/robot_ws/install/sbg_driver/local/lib/python3.10/dist-packages",
+        "/home/tank/robot_ws/install/ouster_msgs/local/lib/python3.10/dist-packages",
+        "/home/tank/robot_ws/install/costmap_converter_msgs/local/lib/python3.10/dist-packages",
+        "/home/tank/robot_ws/build/2d_lidar_detection",
+        "/home/tank/robot_ws/install/2d_lidar_detection/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

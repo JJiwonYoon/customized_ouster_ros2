@@ -1,0 +1,20 @@
+ouster/os_driver:
+  ros__parameters:
+    sensor_hostname: '192.168.2.50'
+    udp_dest: ''
+    mtp_dest: ''
+    mtp_main: false
+    lidar_mode: '512x20'
+    timestamp_mode: 'TIME_FROM_ROS_TIME'
+    ptp_utc_tai_offset: -37.0
+    udp_profile_lidar: ''
+    metadata: '/home/tank/robot_ws/src/ouster-ros/ouster-ros/config/metadata-qos-override.yaml'
+    lidar_port: 4095
+    imu_port: 2222
+    sensor_frame: os_sensor
+    lidar_frame: os_lidar
+    imu_frame: os_imu
+    point_cloud_frame: os_lidar
+    proc_mask: IMG|PCL|IMU|SCAN
+    scan_ring: 0
+    use_system_default_qos: true
